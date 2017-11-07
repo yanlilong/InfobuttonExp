@@ -1,0 +1,16 @@
+URL Link:
+1.https://www.ncbi.nlm.nih.gov/guide/
+z.B. wenn man 'heart failure symptoms' suchen, gebt man die Link 'https://www.ncbi.nlm.nih.gov/pubmed/?term=heart%20failure%20symptoms'
+Außerdem hat ncbi manche public API, um viele Dankenbank und Tools durch programm in Backend anzugreifen.
+
+
+2.https://medlineplus.gov/ 
+search heart failure
+result :
+https://vsearch.nlm.nih.gov/vivisimo/cgi-bin/query-meta?v%3Aproject=medlineplus&v%3Asources=medlineplus-bundle&query=heart+failure
+
+4.https://www.tripdatabase.com/ Trip medical database
+search heart failure
+result :https://www.tripdatabase.com/search?criteria=heart+failure&lang=en
+
+3.https://www.webmd.com/heart-disease/heart-failure/default.htm
